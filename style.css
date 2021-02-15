@@ -1,0 +1,177 @@
+@font-face {
+    font-family: SenticoSansDT-Regular;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Regular.otf);
+    
+    font-family: SenticoSansDT-Bold;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Bold.otf);
+    
+    font-family: SenticoSansDT-Light;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Light.otf);
+    
+    font-family: SenticoSansDT-Medium;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Medium.otf);
+    
+    font-family: SenticoSansDT-Regular;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Regular.otf);
+    
+    font-family: SenticoSansDT-Regular;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Regular.otf);
+    
+    font-family: SenticoSansDT-Regular;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Regular.otf);
+    
+    font-family: SenticoSansDT-Regular;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Regular.otf);
+    
+    font-family: SenticoSansDT-Regular;
+    src: url(../Processos\ de\ Ux\ -\ Site/fonts/SenticoSansDT-Regular.otf);
+}
+
+body {
+    margin: auto;
+}
+
+nav {
+    margin: 0, auto;
+    background-color: black;
+    height: 70px;
+}
+
+nav h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #ffffff;
+    margin left:10%;
+    padding-top: 1%;
+}
+
+nav h1 strong {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+header {
+    height: 472px;
+    background: #F8F8F8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+}
+
+header h1 {
+    font-family: SenticoSansDT-Bold;
+    font-size: 96px;
+    padding-left: 10%;
+    padding-top: 120px;
+}
+
+header h3 {
+    font-family: SenticoSansDT-Light;
+    font-size: 30px;
+    padding-left: 10%;
+    margin-top: 40px;
+}
+
+main {
+    background: black;
+}
+
+.h3-mais-utilizados {
+    font-family: SenticoSansDT-Medium;
+    font-size: 30px;
+    color: white;
+    padding-left: 10%;
+    padding-top: 48px;
+    margin-bottom: 34px;
+}
+
+.box-process-primeira {
+    width: 714px;
+    background-color: white;
+    border: 0.5px solid #e6e6e6;
+    margin-left: 10%;
+    padding: 28px 0px;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.box-process-primeira h3 {
+    font-family: SenticoSansDT-Regular;
+    font-size: 26px;
+    color: black;
+    margin-left: 120px;
+}
+
+.box-process-primeira p {
+    font-family: SenticoSansDT-Light;
+    font-size: 16px;
+    color: #999999;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+
+.box-process {
+    width: 714px;
+    background-color: white;
+    border: 0.5px solid #e6e6e6;
+    margin-left: 10%;
+    padding: 28px 0px;
+}
+
+.box-process h3 {
+    font-family: SenticoSansDT-Medium;
+    font-size: 26px;
+    color: black;
+    margin-left: 120px;
+}
+
+.box-process p {
+    font-family: SenticoSansDT-Light;
+    font-size: 16px;
+    color: #999999;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+
+.em-breve {
+    font-family: SenticoSansDT-Light;
+    font-size: 30px;
+    color: white;
+    padding-left: 10%;
+}
+
+.em-breve-box {
+    width: 408px;
+    background-color: white;
+    border: 0.3px solid #e6e6e6;
+    margin-left: 10%;
+    border-radius: 15px 15px 0px 0px;
+
+}
+
+.em-breve-box h3 {
+    font-family: SenticoSansDT-Regular;
+    font-size: 26px;
+    color: black;
+    margin-left: 120px;
+}
+
+.em-breve-box p {
+    font-family: SenticoSansDT-Light;
+    font-size: 16px;
+    color: #999999;
+    margin-left: 120px;
+    margin-top: 15px;
+}
+
+.news-letter{
+    font-family: SenticoSansDT-Light;
+    font-size: 30px;
+    color: white;
+    padding-left: 10%;
+
+}
+
+.icon-box-process {
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 24px;
+}
